@@ -1,4 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+Aqrare,+a+blockchain+engineer+here;Known+as+0xYuzu+in+the+crypto)](https://git.io/typing-svg)
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Blockchain,+Dapps+Engineer;Known+as+0xYuzu+in+the+Crypto" alt="Typing SVG" />
+</p>
+
+<h1 align="center">👋 Hello, I'm Aqrare</h1>
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+I'm a passionate Blockchain Developer with a strong background in Web3 technologies. I love building decentralized applications and exploring the potential of blockchain to revolutionize various industries. When I'm not coding, you can find me writing technical articles or contributing to open-source projects.
+</p>
+
+
+
+
 
 <h2 align="center">📩 SNS</h2>
 <p align="center">
@@ -66,17 +82,5 @@
     <img src="https://raw.githubusercontent.com/ethereum/solidity/develop/docs/logo.svg" alt="Yul" width="40" height="40" style="margin: 0 10px 10px 0;"/>
   </a>
 </div>
-<!--
-**Aqrare/Aqrare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
