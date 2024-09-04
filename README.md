@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines="Code+and+Ideas+transcend+languages;Known+as+0xYuzu+in+the+Crypto" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Code+and+Ideas+transcend+languages" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Aqrare | Blockchain Engineer</h1>
