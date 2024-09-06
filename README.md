@@ -8,9 +8,15 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center">
+
 I'm a passionate Blockchain Developer with a strong background in Web3 technologies. I love building decentralized applications and exploring the potential of blockchain to revolutionize various industries. When I'm not coding, you can find me writing technical articles or contributing to open-source projects.
-</p>
+
+
+🥇Won prizes at 4 Ethereum Hackathon
+- ETH Global NYC 
+- ETH Global Bogota
+- ETH Denver 2023
+- ETH Global Tokyo 2023
 
 
 
@@ -82,5 +88,7 @@ I'm a passionate Blockchain Developer with a strong background in Web3 technolog
     <img src="https://raw.githubusercontent.com/ethereum/solidity/develop/docs/logo.svg" alt="Yul" width="40" height="40" style="margin: 0 10px 10px 0;"/>
   </a>
 </div>
+
+
 
 
