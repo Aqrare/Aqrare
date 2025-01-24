@@ -10,16 +10,6 @@
 
 
 
-🥇Won prizes at 4 Ethereum Hackathon
-- ETH Global NYC 
-- ETH Global Bogota
-- ETH Denver 2023
-- ETH Global Tokyo 2023
-
-
-
-
-
 <h2 align="center">📩 SNS</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/takumi-hosokawa-6b2537210/" target="_blank">
@@ -61,9 +51,6 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
   <a href="https://www.alchemy.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/7953323?s=200&v=4" alt="Alchemy" width="40" height="40"/>
   </a>
@@ -73,19 +60,14 @@
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40" style="margin: 0 10px 10px 0;"/>
-  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin: 0 10px 10px 0;"/>
   </a>
   <a href="https://wagmi.sh/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://avatars.githubusercontent.com/u/109633172" alt="Wagmi" width="40" height="40" style="margin: 0 10px 10px 0;"/>
   </a>
-  <a href="https://docs.soliditylang.org/en/latest/yul.html" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/ethereum/solidity/develop/docs/logo.svg" alt="Yul" width="40" height="40" style="margin: 0 10px 10px 0;"/>
-  </a>
 </div>
+
 
 
 
