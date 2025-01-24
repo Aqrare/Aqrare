@@ -9,8 +9,6 @@
 <h2 align="center">About Me</h2>
 
 
-I'm a passionate Blockchain Developer with a strong background in Web3 technologies. I love building decentralized applications and exploring the potential of blockchain to revolutionize various industries. When I'm not coding, you can find me writing technical articles or contributing to open-source projects.
-
 
 🥇Won prizes at 4 Ethereum Hackathon
 - ETH Global NYC 
