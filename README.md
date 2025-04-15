@@ -8,7 +8,7 @@
 
 <h2 align="center">About Me</h2>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqrare&layout=compact&hide=html&theme=highcontrast)
 
 <h2 align="center">📩 SNS</h2>
 <p align="center">
