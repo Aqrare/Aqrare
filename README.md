@@ -17,6 +17,8 @@
   />
 </div>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=4f96143d-96a4-4aef-9819-d6ae01568f63)](https://github.com/anuraghazra/github-readme-stats)
+
 
   <h2>📩 SNS</h2>
 
